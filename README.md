@@ -9,7 +9,7 @@ Random coin flip animation
 - Reset functionality
 - Clean, responsive UI
 
-🚀 Demo
-Try it live: Your Live Demo Link
+🚀 Demo 
+Try it live: https://coin-flip-app-omega.vercel.app/
 
 ![image alt](https://github.com/AbhishekEng/coin-flip-app/blob/fdbce24b86f7fade89eb780b7bc97aa7f1c9936a/Screenshot%20coin%20flip.png)
